@@ -1,4 +1,4 @@
-# gestures
+# Gestures
  Hand Gesture Recognition with OpenCV &amp; MediaPipe! 🤚
 I'm excited to share a simple yet powerful real-time hand gesture recognition project I recently worked on using Python, OpenCV, and Google’s MediaPipe framework.
 
